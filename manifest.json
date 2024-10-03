@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "InventoryHub: Gói quản lý kho đồ tiện lợi cho Minecraft.\nĐược phát triển bởi §b©hanhne.",
+        "name": "InventoryHub",
+        "uuid": "f6c6e8c4-4a60-4f9c-bfbf-5c2f2e162912",
+        "version": [1, 2, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "Module chính của InventoryHub.",
+            "type": "resources",
+            "uuid": "d0ad8c44-e0df-4b95-9d62-8f3a9c6ff9f3",
+            "version": [1, 2, 0]
+        }
+    ]
+}

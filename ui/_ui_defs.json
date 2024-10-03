@@ -1,0 +1,6 @@
+{
+	"ui_defs":[
+		"ui/Bolt/inventory_hud.json",
+		"ui/hud_screen.json"
+	]
+}
